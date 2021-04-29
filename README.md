@@ -7,4 +7,4 @@
 **Discord:MCKHOAHONG#8147** **Đang Online**
 ![Meta](https://cdn.discordapp.com/avatars/785379614943871016/a3910a93c6eb04de07b533016c7c5f43.png?size=256)
 
-Chat Miễn phí Của Server [MyChat](https://discord.gg/SbHmGEUsEq)
+Chat Miễn phí Của Server [MyChat](https://discord.gg/SbHmGEUsEQ)
