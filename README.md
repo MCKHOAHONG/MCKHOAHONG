@@ -3,8 +3,8 @@
 
 # Trang Chính thức Của MCKHOAHONG #
 
-![Meta](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH1bfBBPAb2hRKDs87DPE1-bRIdFM-Ht5VdA&usqp=CAU)
-**Discord:MCKHOAHONG#8147** **Đang Online**
-![Meta](https://cdn.discordapp.com/avatars/785379614943871016/a3910a93c6eb04de07b533016c7c5f43.png?size=256)
+Được Bảo vệ bởi ÂSLA
 
-Chat Miễn phí Của Server [MyChat](https://discord.gg/SbHmGEUsEQ)
+ÂSLA Là một Trang Web Kho Lưu trữ Github Action
+
+Website: [asla-beta.glitch.me](https://asla-beta.glitch.me)
